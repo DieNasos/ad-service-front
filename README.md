@@ -10,6 +10,4 @@ JavaScript + React.js
 
 # Сборка и запуск
 
-npm install
-npm run-script build
-npm start
+npm install + npm run-script build + npm start
