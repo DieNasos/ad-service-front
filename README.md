@@ -1,2 +1,9 @@
-# ad-service-front
- Front-end of advertising service (JarSoft test task)
+# Тестовое задание для собеседования в JarSoft
+
+# Описание проекта
+
+Front-end приложения для управления рекламными баннерами и категориями.
+
+# Используемые инструменты
+
+React.js
