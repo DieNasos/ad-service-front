@@ -7,3 +7,9 @@ Front-end приложения для управления рекламными 
 # Используемые инструменты
 
 JavaScript + React.js
+
+# Сборка и запуск
+
+npm install
+npm run-script build
+npm start
